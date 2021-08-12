@@ -1,9 +1,17 @@
 # React native flip test
 
+![Alt Text](videoaplikasi.gif)
+
 # langkah langkah menjalankan aplikasi
 
-# 1. npx/npm install jika anda sudah menginstall node js
+1.  npx/npm install jika anda sudah menginstall node js
 
-# 2. jalankan npx react-native run-android (Untuk Android)
+2.  buatlah file local.properties dengan isi berikut
 
-# 3. Jalankan npx react-native run-ios (Untuk IOS)
+'sdk.dir = /Users/username/Library/Android/sdk'
+
+3.  jika ingin menjalankannya di emulator ios
+
+masuk ke dalam folder ios dan ketik 'pod install'
+
+4.  untuk jalankan aplikasi di ketikan npx react-native run-android / run-ios
