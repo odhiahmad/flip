@@ -1,6 +1,6 @@
 # React native flip test
 
-![Alt Text](videoaplikasi.gif|width="100" height="400")
+![Alt Text](videoaplikasi.gif | width="100" height="400")
 
 # langkah langkah menjalankan aplikasi
 
